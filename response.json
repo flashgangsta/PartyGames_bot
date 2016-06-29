@@ -1,0 +1,30 @@
+{
+  chatId: -145747190,
+  user: {
+	id: 184164083,
+	first_name: 'Siarhei',
+	last_name: 'Kryutsou',
+	username: 'Negritos'
+  },
+  message: {
+	message_id: 147,
+	from: {
+	  id: 184164083,
+	  first_name: 'Siarhei',
+	  last_name: 'Kryutsou',
+	  username: 'Negritos'
+	},
+	chat: {
+	  id: -145747190,
+	  title: 'Group + Bot',
+	  type: 'group'
+	},
+	date: 1466065806,
+	text: '/start',
+	entities: [
+	  [
+		Object
+	  ]
+	]
+  }
+}

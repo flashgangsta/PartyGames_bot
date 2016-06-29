@@ -1,0 +1,8 @@
+{
+  "lang": "Ru",
+  "phrases": {
+	"singlePlayerWarning":		"Sorry, this is multiplayer game, you must crate Group chat, invite me and your friends for playing.",
+	"startIfGameInProgress":	"sorry, but the game is already in progress, wait until the game is over.",
+	"":""
+  }
+}
